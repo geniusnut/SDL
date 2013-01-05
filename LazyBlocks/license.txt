@@ -1,0 +1,6 @@
+Lazy Blocks Beta Version
+------------------------
+
+User Agreement:
+
+You agree not to redistribute any part of the game ( specifically the source, the graphics, and the executable - LazyBlocks.exe ) without the permission of Lazy Foo' Productions.
